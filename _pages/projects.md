@@ -1,8 +1,8 @@
 ---
-permalink: /
+permalink: /github_projects/
 title: "Github projects"
 excerpt: ""
-author_profile: false
+author_profile: true
 ---
 
 ## pytesmo
