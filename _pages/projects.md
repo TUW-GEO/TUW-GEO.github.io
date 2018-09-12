@@ -5,6 +5,10 @@ title: "Github projects"
 
 ## pytesmo
 
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
+[![pytesmo](https://badge.fury.io/py/pytesmo.svg)](https://badge.fury.io/py/pytesmo/)
+
 .. image:: https://travis-ci.org/TUW-GEO/pytesmo.svg?branch=master
     :target: https://travis-ci.org/TUW-GEO/pytesmo
 
