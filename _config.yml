@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "TUW-GEO"
-  avatar           : "/assets/images/geo_logo.jpg"
+  avatar           : "/assets/images/geo_logo.png"
   bio              : ""
   location         : "Vienna, Austria"
   email            :
