@@ -1,6 +1,6 @@
 ---
-permalink: /github_projects/
-title: "Github projects"
+permalink: /
+title: "Open source projects"
 ---
 
 ## pytesmo
