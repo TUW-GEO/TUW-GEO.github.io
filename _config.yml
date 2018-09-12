@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Open source projects at TU Wien, Department of Geodesy and Geoinformation"
+title                    : "TUW-GEO open source projects"
 title_separator          : "|"
-name                     : "U Wien, Department for Geodesy and Geoinformation"
+name                     : "TU Wien, Department for Geodesy and Geoinformation"
 description              : ""
 url                      : "https://TUW-GEO.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
