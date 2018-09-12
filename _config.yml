@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "TU Wien, Department of Geodesy and Geoinformation"
-title_separator          : "-"
-name                     : "TU Wien, Department for Geodesy and Geoinformation"
-description              : "An amazing website."
+title                    : "Open source projects at TU Wien, Department of Geodesy and Geoinformation"
+title_separator          : "|"
+name                     : "U Wien, Department for Geodesy and Geoinformation"
+description              : ""
 url                      : "https://TUW-GEO.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "TUW-GEO/TUW-GEO.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "TUW-GEO"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Vienna, Austria"
@@ -111,7 +111,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://www.geo.tuwien.ac.at/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -120,7 +120,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://TUW-GEO.github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
